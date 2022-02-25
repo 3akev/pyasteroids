@@ -29,10 +29,10 @@ Art from opengameart.org
   - If it's a small asteroid, it doesn't split.
 - Split asteroids gain a random increase in speed as well as a reasonable change in direction
 - Asteroid spawning:
-  - Spawn a group of asteroids as soon as there are no more
+  - Spawn a group of asteroids as soon as there are no more left
   - Asteroids spawn around the edges of the screen
   - Asteroids never spawn on top of the player
-- Sound(See (Bfxr)[https://www.bfxr.net]):
+- Sound(See [Bfxr](https://www.bfxr.net)):
   - Shooting bullets plays a shooty sound
   - Asteroids being destroyed plays an appropriate sound
   - Moving with W activates the engine, playing an engine humming sound
@@ -49,7 +49,7 @@ Additional polish:
   - Button to restart the game
 - Pause screen: ESC to pause
   - Nothing moves, nothing is processed
-  - Draw the words "PAUSED" while paused
+  - Draw the word "PAUSED" while paused
   - ESC again to unpause
 - Enemies(UFO?) spawn randomly
   - Enemies shoot at player
