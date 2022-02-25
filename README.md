@@ -1,7 +1,8 @@
 # pyasteroids
 
 An Asteroids clone, made with python and pyglet. Docs: https://pyglet.readthedocs.io/en/latest/index.html
-Art from opengameart.org.
+
+Art from opengameart.org
 
 
 # TODO:
@@ -50,3 +51,7 @@ Additional polish:
   - Nothing moves, nothing is processed
   - Draw the words "PAUSED" while paused
   - ESC again to unpause
+- Enemies(UFO?) spawn randomly
+  - Enemies shoot at player
+  - Destroying enemies increases score
+  - Enemies move erratically
